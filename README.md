@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my home 
 
-You can use the [editor on GitHub](https://github.com/danicalove/danicalove.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My [douban](https://accounts.douban.com/login?redir=https://www.douban.com/&source=index_nav&login_type=sms) website.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
