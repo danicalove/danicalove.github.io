@@ -11,9 +11,9 @@ type: page
 
 ## 工具
 
-* [box-shadow generator](http://www.cssmatic.com/box-shadow)
+* [rna-seq diffGene](http://www.cnblogs.com/OA-maque/p/4833225.html)
 
-    生成 box-shadow 的工具。
+    rna-seq寻找差异表达基因。
 
 * [gradient-generator](http://www.cssmatic.com/gradient-generator)
 
