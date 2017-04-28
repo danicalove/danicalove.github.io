@@ -27,7 +27,7 @@ type: page
 
 * GitHub：[danicalove](https://github.com/danicalove)
 * email：1341866751@qq.com
-* [Weibo](http://weibo.com/3115521wh)
+
 
 
 
