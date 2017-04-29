@@ -9,11 +9,12 @@ type: page
 * content
 {:toc}
 
-## 工具
-
+## bioinformatics
 * [rna-seq diffGene](http://www.cnblogs.com/OA-maque/p/4833225.html)
 
     rna-seq寻找差异表达基因。
+
+## 工具
 
 * [gradient-generator](http://www.cssmatic.com/gradient-generator)
 
