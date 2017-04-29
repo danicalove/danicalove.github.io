@@ -176,5 +176,6 @@ RNA编辑鉴定工具：
 蛋白质-RNA结合
 CLIP-Seq
 
-
+就没见过这么乱的笔记可不是  还没做完  可把我厉害死了 
+![] (https://img3.doubanio.com/view/note/large/public/p28729793.jpg)
 
