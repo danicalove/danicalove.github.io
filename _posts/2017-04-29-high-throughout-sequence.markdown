@@ -178,5 +178,4 @@ CLIP-Seq
 
 就没见过这么乱的笔记可不是  还没做完  可把我厉害死了 
 
-![](https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E8%A1%A8%E6%83%85%E5%8C%85&hs=2&pn=0&spn=0&di=90249228960&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&ie=utf-8&oe=utf-8&cl=2&lm=-1&cs=1038066993%2C1670230559&os=1827220315%2C1199054829&simid=4083529950%2C572545978&adpicid=0&lpn=0&ln=30&fr=ala&fm=&sme=&cg=&bdtype=0&oriquery=%E8%A1%A8%E6%83%85%E5%8C%85&objurl=http%3A%2F%2Fimg4.duitang.com%2Fuploads%2Fitem%2F201607%2F12%2F20160712122849_5SJUT.jpeg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B17tpwg2_z%26e3Bv54AzdH3Fks52AzdH3F%3Ft1%3Dma8l0l0m9&gsm=0)
-
+![](https://img3.doubanio.com/view/status/median/public/7315579d71a02e3.webp)
