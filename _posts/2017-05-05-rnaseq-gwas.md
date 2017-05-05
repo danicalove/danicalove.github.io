@@ -3,7 +3,7 @@ layout:post
 title:"bioinfo"
 date:2017-05-05 19:32:22
 catagories:bioinfo
-excerpt:bioinfo
+tags:bioinfo
 ---
 
 * content
