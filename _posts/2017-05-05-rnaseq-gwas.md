@@ -1,6 +1,6 @@
 ---
 layout:post
-title:"bioinfo"
+title:  "bioinfo"
 date:2017-05-05 19:32:22
 catagories:bioinfo
 tags:bioinfo
