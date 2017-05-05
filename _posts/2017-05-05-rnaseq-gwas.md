@@ -1,9 +1,9 @@
 ---
-layout:post
+layout: post
 title:  "bioinfo"
-date:2017-05-05 19:32:22
-catagories:bioinfo
-tags:bioinfo
+date: 2017-05-05 19:32:22
+catagories: bioinfo
+tags: bioinfo
 ---
 
 * content
@@ -11,6 +11,7 @@ tags:bioinfo
 
 进入考试月了  
 
+---
 
 
 
