@@ -12,7 +12,10 @@ tags: R
 
 
 虽说现在测序技术用的比较多，但是芯片毕竟是老大哥，还是有很大用武之地的。
+
 ![aa](http://mmbiz.qpic.cn/mmbiz_jpg/lcaq0oMjdFwwdFxBJ3zCZokATcEsaK6amHpQ1InNMb3PllXpJo2F6gGXMicJBJLWBl8NS52pxX23JXNaJcu1EYw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
+
+
 
 
 
