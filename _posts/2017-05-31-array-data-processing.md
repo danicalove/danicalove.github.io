@@ -10,10 +10,8 @@ tags: R
 {:toc}
 
 
-
 虽说现在测序技术用的比较多，但是芯片毕竟是老大哥，还是有很大用武之地的。
-
-![aa](http://mmbiz.qpic.cn/mmbiz_jpg/lcaq0oMjdFwwdFxBJ3zCZokATcEsaK6amHpQ1InNMb3PllXpJo2F6gGXMicJBJLWBl8NS52pxX23JXNaJcu1EYw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
+![a](http://mmbiz.qpic.cn/mmbiz_jpg/lcaq0oMjdFwwdFxBJ3zCZokATcEsaK6amHpQ1InNMb3PllXpJo2F6gGXMicJBJLWBl8NS52pxX23JXNaJcu1EYw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
 
 
@@ -31,12 +29,19 @@ tags: R
 samples:
          
 GSM1598820	ALL-SIL_cell_line_without_TCR_activation_rep1
+
 GSM1598821	ALL-SIL_cell_line_without_TCR_activation_rep2
+
 GSM1598822	ALL-SIL_cell_line_after_TCR_activation_rep1
+
 GSM1598823	ALL-SIL_cell_line_after_TCR_activation_rep2
+
 GSM1598824	ALL-SIL_cell_line_with_shRNA_control_vector_rep1
+
 GSM1598825	ALL-SIL_cell_line_with_shRNA_control_vector_rep2
+
 GSM1598826	ALL-SIL_cell_line_with_shRNA_TLX1_rep1
+
 GSM1598827	ALL-SIL_cell_line_with_shRNA_TLX1_rep2
 
 # 包的安装
