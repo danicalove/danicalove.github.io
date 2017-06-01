@@ -6,7 +6,7 @@ categories: pharmaceutial bioinformatics
 tags: pharmaceutial bioinformatics
 ---
 
-* cintent
+* content
 {:toc}
 
 
