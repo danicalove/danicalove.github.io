@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: SWY
-brief-intro: bioinformatics
+title: 孙文亚的个人博客
+brief-intro: bioinformatics learning
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://danicalove.github.io" # the base hostname & protocol for your site
 
@@ -19,7 +19,7 @@ github_username:  danicalove
 email: 1341866751@qq.com   
       
 
-description_footer: 本站纯属胡闹
+description_footer: 本站纯属皮着玩
 
 # comments
 # two ways to comment, only choose one, and use your own short name
