@@ -15,6 +15,19 @@ tags: linux bash
 ![image](http://mmbiz.qpic.cn/mmbiz_jpg/lcaq0oMjdFwR0aTT5LQcVFeUgy1ib57SNNPZvsBmbGibEbpwcdw5xxxch1JGby3LuDlZAvVbzf3xia3ca26bITkPw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 1.可怕的默认编辑器
 ```
 export EDitor=/bin/rm
