@@ -7,7 +7,7 @@ tags: 测序 lab
 ---
 
 * content
-{:toc"}
+{:toc}
 
 实验课整理
 
