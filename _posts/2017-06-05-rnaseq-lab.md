@@ -1,3 +1,30 @@
+---
+layout: post
+title: "测序实验课"
+date: 2017-06-05 17:58:00
+categories: 测序 lab
+tags: 测序 lab
+---
+
+* content
+{:toc"}
+
+实验课整理
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Lab1 数据获取及质量评估 
 - 测序数据库 SRA数据库
 - 服务器端下载数据：获取数据 sratoolkit prefetch
