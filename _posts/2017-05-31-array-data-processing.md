@@ -211,14 +211,16 @@ p.exp.ram=exp.rma[p.value<0.01,]
 ##limma包使用经验贝叶斯方法求差异表达基因，要求数据经过log2处理
 ```
 library(limma)
-samples=factor(c(rep("TCR"),4),rep("shRNA",4)) ## the function of factor is to encode a vector as a factor ##usage:factor(x=character(),levels,labels=levels,exclude=NA,ordered=is.ordered(x),nmax=NA)
-design=model.matrix(~1+samples) #实验设计矩阵，一个因素两个水平，作为下游lmfit的参数 #model.matrix creates a design matrix
+##samples=factor(c(rep("TCR"),4),rep("shRNA",4)) ## the function of factor is to encode a vector as a factor ##usage:factor(x=character(),levels,labels=levels,exclude=NA,ordered=is.ordered(x),nmax=NA)
+design=model.matrix(~-1+factor(c(rep(1,4),rep(2,4))))) #实验设计矩阵，一个因素两个水平，作为下游lmfit的参数 #model.matrix creates a design matrix
 colnames(design)=c("TCR","shRNA")
 contrast.matrix=makeContrasts(contrast="TCR-shRNA",levels=design)#limma包的一个函数 construct the contrast matrix corresponding to specified contrast of a set of parametres 表明用户要对实验矩阵design的哪几列矩阵进行比较以得到差异
 fit=lmfit(exp.rma,design) 
 fit1=contrasts.fit(fit,contrast,matrix)#对基因表达矩阵做线性拟合 #give a linear model fit to micoarray data,conpute estimated cofficients and standard errors for a given set of contrasts
 fit2=eBayes(fit) #given a micarray #extract a table of the top-ranked genes from a linear model fit 
-dif1=dif[dif[,"P.value"<0.01],]
+dif=topTable(fit2,n=nrow(fit2))
+dif_up=dif[dif[,"logFC"]>1 & dif[,"P.value"]<0.01 & dif[,"adj.P.Val"]<0.01,]
+dif_down=dif[dif[,"logFC"]<-1 & dif[,"P.value"]<0.01 & dif[,"adj.P.Val"]<0.01,]
 ```
 
 
