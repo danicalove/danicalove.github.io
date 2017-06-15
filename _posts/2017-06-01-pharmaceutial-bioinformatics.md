@@ -66,7 +66,7 @@ tags: pharmaceutial bioinformatics
 
 Connectivity map (cmap) the discoverty of functional connections between drugs,genes and diseases through the transitory feature of gene-expression changes
 ![](https://d2ufo47lrtsv5s.cloudfront.net/content/sci/313/5795/1929/F1.medium.gif)
-
+[link](https://portals.broadinstitute.org/cmap/permuted_result.jsp?resultDescId=154043s)
 # 药物作用与基因表达分析（基于测序技术）
 HTS：自动操作系统（微孔板 堆栈） 样品库 检测系统（荧光分析，放射性同位素） 数据处理设备（数据库管理系统） 其他处理设备
 
