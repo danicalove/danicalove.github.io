@@ -1,3 +1,25 @@
+---
+layout: post
+title: "datamining"
+date: 2017-06-04 11:11:11
+categories: datamining 算法
+tags: datamining 
+---
+
+* content
+{:toc}
+
+
+数据挖掘，大概也是一门神学。
+![](http://pic0.v4.cc/ps/mmbiz.qpic.cn/mmbiz_jpg/884XsHGHibP79Z38cTLk4THrI6iahS0rLkuaiakJfumSAOgAMyBiaMyAo1cpBUpbticNorFp8rX8vluk0CGvzRDYdog/0?wx_fmt=jpeg)
+
+
+
+
+
+
+
+
 - 频繁模式：数据中频繁出现的模式
 - 频繁项集：频繁地在事务数据集中一起出现的集合
 - 关联规则的两个属性：最小支持度阈值和最小置信度阈值

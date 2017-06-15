@@ -1,3 +1,28 @@
+---
+layout: post
+title: "novoBreak--sv detection"
+date: 2017-06-06 22:22:22
+categories: novoBreak tool
+tags: tool 
+---
+
+* content
+{:toc}
+
+novoBreak简介
+
+![](http://pic0.v4.cc/ps/mmbiz.qpic.cn/mmbiz_jpg/884XsHGHibP4LR1zibkXyMHp5gvhia2v9jLpqg3fEg9BezLHXXlMdEpic8f6bicJdhekspYxibbqdY4OtvibkOmo4JibPA/0?wx_fmt=jpeg)
+
+
+
+
+
+
+
+
+
+
+
 # novoBreak
 novobreak:检测全基因组测序数据中体细胞和生殖细胞结构突变breakpoint的全基因组局部组装算法 在体细胞识别方面表现突出 主要是因为它更充分利用跨breakpoints的reads,novobreak在识别小的缺失和插入（indel）方面的敏感性也更好
 
