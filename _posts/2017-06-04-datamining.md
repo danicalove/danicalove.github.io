@@ -9,8 +9,8 @@ tags: datamining
 * content
 {:toc}
 
-
 数据挖掘，大概也是一门神学。
+
 ![](http://pic0.v4.cc/ps/mmbiz.qpic.cn/mmbiz_jpg/884XsHGHibP79Z38cTLk4THrI6iahS0rLkuaiakJfumSAOgAMyBiaMyAo1cpBUpbticNorFp8rX8vluk0CGvzRDYdog/0?wx_fmt=jpeg)
 
 
