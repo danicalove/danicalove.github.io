@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "甲基化芯片数据处理"
-date：2017-07-31 21:46:11
+date: 2017-07-30 21:21:21
 categories: 数据分析
-tags：甲基化芯片数据分析
+tags: 甲基化芯片数据处理
 ---
 
 * content
