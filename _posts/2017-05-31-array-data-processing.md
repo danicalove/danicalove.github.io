@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "affy芯片数据处理"
-data: 2017-05-31 20:01:11
+date: 2017-05-31 20:01:11
 categories: R affy芯片 
 tags: R 
 ---
