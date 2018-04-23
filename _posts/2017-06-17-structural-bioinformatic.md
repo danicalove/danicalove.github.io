@@ -6,11 +6,6 @@ categories: bioinformatics
 tags: bioinformatics
 ---
 
-* content
-{:toc}
-
-
-前段时间github一直同步不了，为了期末考试做的笔记一直没有同步到网页上，昨天才收到github发来的邮件说是这个文件的编码不是UTF-8编码错误，现在终于又可以上传了，又有了写博客，整理笔记的心情了。
 
 
 
@@ -21,15 +16,15 @@ tags: bioinformatics
 
 
 
- 
+
 
 
 
  
- 
- 
- 
- # 01 简介
+
+
+
+# 01 简介
 ## 研究内容：生物大分子如蛋白质，RNA和DNA及相互作用的三维结构的预测和分析，由结构到功能理解生物大分子的作用机制。
 ## DNA结构
 ### 一级结构
