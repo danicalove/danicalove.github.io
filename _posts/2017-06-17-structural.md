@@ -7,7 +7,7 @@ tags: bioinformatics
 ---
 
 * content
-{:toc
+{:toc}
 
 结构生物信息学，觉得挺难的。
 
