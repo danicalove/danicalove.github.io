@@ -9,7 +9,7 @@ tags: automation
 * content
 {:toc}
 
-流程自动化
+测序流程自动化
 
 ---
 
