@@ -3,13 +3,13 @@ layout: post
 title: "structural-bioinformatics"
 date: 2017-06-17 23:11:11
 categories: bioinformatics
-tags: bioinformatics
+tags: automation
 ---
 
 * content
 {:toc}
 
-结构生物信息学，觉得挺难的。
+流程自动化
 
 
 
